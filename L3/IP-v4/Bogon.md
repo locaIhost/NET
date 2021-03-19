@@ -1,3 +1,4 @@
+# Bogon table 📑
 NETBLOCK	      |DESCRIPTION                                    |RFC
 ---             | ---                                           |---
 0.0.0.0/8	      |"This" network                                 |1122 3330 1700
@@ -17,3 +18,5 @@ NETBLOCK	      |DESCRIPTION                                    |RFC
 240.0.0.0/4	    |Reserved for future use                        |5771 1122
 255.255.255.255/32|	Limited broadcast                           |919 922
 
+# Image table 📑
+![image](https://user-images.githubusercontent.com/76544214/111736346-53ed7c00-8886-11eb-9845-580a91c08c2d.png)
